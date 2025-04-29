@@ -1,5 +1,6 @@
 ContaBanco
 Este é um projeto em Java desenvolvido como parte do Bootcamp Bradesco 2025, proposto pela DIO (Digital Innovation One). O programa simula uma aplicação bancária básica que permite ao usuário realizar várias operações financeiras e gerenciar sua conta.
+
 📝 Funcionalidades
 O sistema oferece as seguintes opções:
 - Abrir Conta: Permite ao usuário criar uma nova conta bancária, fornecendo informações como nome, sobrenome e número da agência.
